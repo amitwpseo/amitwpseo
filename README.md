@@ -23,7 +23,7 @@
           <img src="https://www.vectorlogo.zone/logos/starbucks/starbucks-icon.svg" width="12" /> <b>100% Job Success</b>
         </li>
         <li style="margin-bottom: 10px;">
-          <img src="https://www.vectorlogo.zone/logos/webcomponentsorg/webcomponentsorg-icon.svg" width="12" /> <b>25+ Completed Projects</b>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="12" /> <b>25+ Completed Projects</b>
         </li>
         <li style="margin-bottom: 10px;">
           <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" width="12" /> <b>WordPress and Elementor Expert</b>
