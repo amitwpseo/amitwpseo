@@ -369,3 +369,13 @@ Specialized in WordPress, Elementor, WooCommerce, Shopify and Squarespace develo
   <strong>WordPress Elementor Website Design for Local Electrical Services Company</strong><br>
   Designed a responsive WordPress and Elementor website tailored for a local electrical services business. Features include lead generation quote forms, structured service sections, mobile optimization, and clear call-to-action buttons.
 </p>
+
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/amitnandiwordpressexpert?p=1999384520899682304">
+    <img src="https://bestlocalseoservices.com/wp-content/uploads/2026/09/wordpress-elementor-dog-grooming-landing-page-design.png" alt="Desktop, tablet, and mobile screen mockups of a WordPress Elementor landing page for a dog grooming service." width="100%">
+  </a>
+</p>
+<p align="center">
+  <strong>Responsive WordPress Elementor Landing Page Design for Local Dog Grooming Business</strong><br>
+  Designed a responsive landing page using WordPress and Elementor for a dog grooming business. Features structured service listings, customer testimonials, local service areas, and optimized call-to-action paths across desktop, tablet, and mobile devices.
+</p>
