@@ -200,6 +200,14 @@ Specialized in WordPress, Elementor, WooCommerce, Shopify and Squarespace develo
       <br /><b>WordPress and Elementor SaaS Landing Page Design for Kriya Commerce</b><br/>
       <small>Designed and built a modern SaaS landing page using WordPress and Elementor for a retail software platform. Structured key sections including modular feature blocks, customer testimonials, integrations, and lead capture forms.</small>
     </td>
+  
+    <td width="50%" align="center">
+      <br/><a href="https://www.upwork.com/freelancers/amitnandiwordpressexpert?p=2091555182598987776" target="_blank">
+        <img src="https://bestlocalseoservices.com/wp-content/uploads/2026/09/figma-to-wordpress-elementor-medical-website-development.jpg" width="100%" alt="Comparison showing a Figma medical website design converted into a pixel-accurate WordPress Elementor site."/>
+      </a>
+      <br /><b>Pixel-Accurate Figma to WordPress Elementor Conversion for Medical Website</b><br/>
+      <small>Converted a Figma design into a responsive, pixel-accurate WordPress website using Elementor for a healthcare provider. Implemented clear layout structuring, medical service sections, patient testimonials, and contact features.</small>
+    </td>
   </tr>
 </table>
 </details>
