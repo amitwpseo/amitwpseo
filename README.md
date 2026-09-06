@@ -217,6 +217,14 @@ Specialized in WordPress, Elementor, WooCommerce, Shopify and Squarespace develo
       <br /><b>WordPress and Elementor Medical Website Design for Healthcare Practices</b><br/>
       <small>Designed a responsive healthcare website built with WordPress and Elementor. Features custom service sections, patient stats, booking CTAs, and a mobile-optimized layout focused on SEO performance.</small>
     </td>
+  
+    <td width="50%" align="center">
+      <br/><a href="https://www.upwork.com/freelancers/amitnandiwordpressexpert?p=2088911011641810944" target="_blank">
+        <img src="https://bestlocalseoservices.com/wp-content/uploads/2026/09/wordpress-elementor-event-website-redesign-las-vegas.png" width="100%" alt="WordPress Elementor event website redesign mockups displayed on laptop, tablet, and smartphone screens."/>
+      </a>
+      <br /><b>WordPress Elementor Event Website Redesign for Las Vegas Diecast Supercon</b><br/>
+      <small>Designed and developed a responsive event website using WordPress, Elementor, and Eventbrite integration. Key features include schedule displays, vendor registration details, ticketing options, and optimized multi-device responsive layouts.</small>
+    </td>
   </tr>
 </table>
 </details>
