@@ -251,6 +251,14 @@ Specialized in WordPress, Elementor, WooCommerce, Shopify and Squarespace develo
       <br /><b>WordPress Elementor Real Estate Website Build Using Houzez Theme</b><br/>
       <small>Developed a responsive real estate website using WordPress, Elementor, and the Houzez theme. Integrated lead capture forms, property showcases, and mobile-optimized layouts for seamless user navigation.</small>
     </td>
+  
+    <td width="50%" align="center">
+      <br/><a href="https://www.upwork.com/freelancers/amitnandiwordpressexpert?p=2063891956490080256" target="_blank">
+        <img src="https://bestlocalseoservices.com/wp-content/uploads/2026/09/wordpress-elementor-real-estate-landing-page-design.jpg" width="100%" alt="WordPress Elementor real estate landing page design showcased on laptop, tablet, and mobile devices."/>
+      </a>
+      <br /><b>WordPress Elementor Real Estate Landing Page Design for Palladio Asset Partners</b><br/>
+      <small>Designed and built a responsive WordPress Elementor landing page for a real estate investment firm. Focused on structured content layouts, professional typography, and seamless multi-device compatibility.</small>
+    </td>
   </tr>
 </table>
 </details>
