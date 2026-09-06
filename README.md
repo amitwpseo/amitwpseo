@@ -234,6 +234,14 @@ Specialized in WordPress, Elementor, WooCommerce, Shopify and Squarespace develo
       <br /><b>WordPress Elementor Redesign for PokeKon Las Vegas Event Website</b><br/>
       <small>Redesigned a dynamic event website for PokeKon Las Vegas using WordPress, Elementor, and Eventbrite. The responsive layout features ticketing, schedules, vendor opportunities, and guest details.</small>
     </td>
+  
+    <td width="50%" align="center">
+      <br/><a href="https://www.upwork.com/freelancers/amitnandiwordpressexpert?p=2062002432270172160" target="_blank">
+        <img src="https://bestlocalseoservices.com/wp-content/uploads/2026/09/las-vegas-diecast-supercon-event-landing-page-design-scaled.jpg" width="100%" alt="Fullpage screenshot of the 2027 Las Vegas Diecast SuperCon website featuring ticket pricing, event highlights, video media, and sponsor logos in a dark modern layout."/>
+      </a>
+      <br /><b>Event Landing Page and Ticket Sales Interface Design for Las Vegas Diecast SuperCon</b><br/>
+      <small>Designed a modern event landing page for a diecast convention, featuring ticket sales tiers, schedule information, video embeds, and official sponsor highlights. Optimized visual hierarchy and call-to-action buttons for seamless visitor navigation.</small>
+    </td>
   </tr>
 </table>
 </details>
