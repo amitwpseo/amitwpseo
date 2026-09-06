@@ -209,6 +209,15 @@ Specialized in WordPress, Elementor, WooCommerce, Shopify and Squarespace develo
       <small>Converted a Figma design into a responsive, pixel-accurate WordPress website using Elementor for a healthcare provider. Implemented clear layout structuring, medical service sections, patient testimonials, and contact features.</small>
     </td>
   </tr>
+  <tr>
+    <td width="50%" align="center">
+      <br/><a href="https://www.upwork.com/freelancers/amitnandiwordpressexpert?p=2089252575787388928" target="_blank">
+        <img src="https://bestlocalseoservices.com/wp-content/uploads/2026/09/wordpress-elementor-medical-website-design-responsive.png" width="100%" alt="Desktop and mobile layout preview for a medical website built on WordPress and Elementor."/>
+      </a>
+      <br /><b>WordPress and Elementor Medical Website Design for Healthcare Practices</b><br/>
+      <small>Designed a responsive healthcare website built with WordPress and Elementor. Features custom service sections, patient stats, booking CTAs, and a mobile-optimized layout focused on SEO performance.</small>
+    </td>
+  </tr>
 </table>
 </details>
 
