@@ -226,6 +226,15 @@ Specialized in WordPress, Elementor, WooCommerce, Shopify and Squarespace develo
       <small>Designed and developed a responsive event website using WordPress, Elementor, and Eventbrite integration. Key features include schedule displays, vendor registration details, ticketing options, and optimized multi-device responsive layouts.</small>
     </td>
   </tr>
+  <tr>
+    <td width="50%" align="center">
+      <br/><a href="https://www.upwork.com/freelancers/amitnandiwordpressexpert?p=2088894566682787840" target="_blank">
+        <img src="https://bestlocalseoservices.com/wp-content/uploads/2026/09/wordpress-elementor-pokekon-event-website-redesign.png" width="100%" alt="PokeKon Las Vegas website redesign presented on desktop, tablet, and mobile screens with WordPress, Elementor, and Eventbrite logos."/>
+      </a>
+      <br /><b>WordPress Elementor Redesign for PokeKon Las Vegas Event Website</b><br/>
+      <small>Redesigned a dynamic event website for PokeKon Las Vegas using WordPress, Elementor, and Eventbrite. The responsive layout features ticketing, schedules, vendor opportunities, and guest details.</small>
+    </td>
+  </tr>
 </table>
 </details>
 
