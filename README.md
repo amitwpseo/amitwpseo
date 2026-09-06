@@ -243,6 +243,15 @@ Specialized in WordPress, Elementor, WooCommerce, Shopify and Squarespace develo
       <small>Designed a modern event landing page for a diecast convention, featuring ticket sales tiers, schedule information, video embeds, and official sponsor highlights. Optimized visual hierarchy and call-to-action buttons for seamless visitor navigation.</small>
     </td>
   </tr>
+  <tr>
+    <td width="50%" align="center">
+      <br/><a href="https://www.upwork.com/freelancers/amitnandiwordpressexpert?p=1995020590215041024" target="_blank">
+        <img src="https://bestlocalseoservices.com/wp-content/uploads/2026/09/wordpress-elementor-houzez-real-estate-website.png" width="100%" alt="Desktop and mobile views of a real estate website layout built with WordPress and Elementor"/>
+      </a>
+      <br /><b>WordPress Elementor Real Estate Website Build Using Houzez Theme</b><br/>
+      <small>Developed a responsive real estate website using WordPress, Elementor, and the Houzez theme. Integrated lead capture forms, property showcases, and mobile-optimized layouts for seamless user navigation.</small>
+    </td>
+  </tr>
 </table>
 </details>
 
