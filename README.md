@@ -86,10 +86,10 @@ Specialized in WordPress, Elementor, WooCommerce, Shopify and Squarespace develo
     </td>
     <td width="50%" align="center">
       <br/><a href="https://www.upwork.com/freelancers/amitn22?p=2015506390824361984" target="_blank">
-        <img src="https://www.upwork.com/att/download/portfolio/persons/uid/1860302716319991551/profile/projects/files/7663c76b-bcbb-463b-9fc3-4a829e0ec991" width="100%" alt="Go High Level Funnel Landing Page Design Mobile Home Investing Coach "/>
+        <img src="https://bestlocalseoservices.com/wp-content/uploads/2026/09/highlevel-funnel-builder-mobile-home-landing-page.png" width="100%" alt="HighLevel landing page design for a mobile home investing course featuring video embeds, pricing options, and client testimonials."/>
       </a>
-      <br /><b>Go High Level Funnel Landing Page Design</b><br/>
-      <small>High-converting GHL funnel for a coaching program. Designed for trust-building through structured testimonials, video CTAs, and a seamless application flow.</small>
+      <br /><b>HighLevel Mobile Home Profits Funnel Landing Page Custom Design and Development</b><br/>
+      <small>Designed and built a structured HighLevel funnel landing page for a mobile home investing program. Implemented custom visual layouts including embedded video players, testimonials, pricing cards, and lead generation forms.</small>
     </td>
   </tr>
   <tr>
