@@ -192,6 +192,15 @@ Specialized in WordPress, Elementor, WooCommerce, Shopify and Squarespace develo
       <small>Custom WordPress design focusing on local keywords and schema markup to improve Google Map visibility and local service calls.</small>
     </td>
   </tr>
+  <tr>
+    <td width="50%" align="center">
+      <br/><a href="https://www.upwork.com/freelancers/amitnandiwordpressexpert?p=2020543653002907648" target="_blank">
+        <img src="https://bestlocalseoservices.com/wp-content/uploads/2026/09/wordpress-elementor-saas-landing-page-design.png" width="100%" alt="WordPress and Elementor landing page layout for Kriya Commerce retail software."/>
+      </a>
+      <br /><b>WordPress and Elementor SaaS Landing Page Design for Kriya Commerce</b><br/>
+      <small>Designed and built a modern SaaS landing page using WordPress and Elementor for a retail software platform. Structured key sections including modular feature blocks, customer testimonials, integrations, and lead capture forms.</small>
+    </td>
+  </tr>
 </table>
 </details>
 
