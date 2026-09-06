@@ -361,3 +361,11 @@ Specialized in WordPress, Elementor, WooCommerce, Shopify and Squarespace develo
 <div align="center">
   ⭐ If you find my work useful, feel free to explore my repositories and follow my profile.
 </div>
+
+<p align="center">
+  <img src="https://bestlocalseoservices.com/wp-content/uploads/2026/09/wordpress-elementor-electrical-services-website-design.png" alt="WordPress Elementor website design mockup for an electrical service provider displayed on laptop, tablet, and smartphone screens." width="100%">
+</p>
+<p align="center">
+  <strong>WordPress Elementor Website Design for Local Electrical Services Company</strong><br>
+  Designed a responsive WordPress and Elementor website tailored for a local electrical services business. Features include lead generation quote forms, structured service sections, mobile optimization, and clear call-to-action buttons.
+</p>
