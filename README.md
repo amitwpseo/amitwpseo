@@ -260,6 +260,15 @@ Specialized in WordPress, Elementor, WooCommerce, Shopify and Squarespace develo
       <small>Designed and built a responsive WordPress Elementor landing page for a real estate investment firm. Focused on structured content layouts, professional typography, and seamless multi-device compatibility.</small>
     </td>
   </tr>
+  <tr>
+    <td width="50%" align="center">
+      <br/><a href="https://www.upwork.com/freelancers/amitnandiwordpressexpert?p=2001899839924797440" target="_blank">
+        <img src="https://bestlocalseoservices.com/wp-content/uploads/2026/09/wordpress-elementor-barber-shop-landing-page-design.png" width="100%" alt="WordPress and Elementor barber shop landing page mockup shown on desktop, tablet, and mobile screens."/>
+      </a>
+      <br /><b>Responsive WordPress Elementor Landing Page Design for Local Barber Shop Website</b><br/>
+      <small>Designed and developed a fully responsive landing page using WordPress and Elementor for a local barbershop. Implemented structured service sections, clear call-to-action buttons, client reviews, and integrated local contact details.</small>
+    </td>
+  </tr>
 </table>
 </details>
 
